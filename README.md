@@ -1,11 +1,7 @@
 ## Objective ##
-The idea of this repository is to make crystal clear the callback, async/await and promises concepts. The examples use https://dog.ceo/dog-api/
+The idea of this repository is to make crystal clear the callback, async/await and promises concepts. The files in the table below bring different approach to solving the same problem.
 
-## Files/Folders ##
+## References ##
+1- https://dog.ceo/dog-api/  
 
-| Files/Folders | Observação |
-| --- | --- |
-| dog.txt | file with the dog breed |  
-| dog-img.txt | file to save dog image |  
-| index-async-await-andmore.js |  |  
-|  |  |  
+2- https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
